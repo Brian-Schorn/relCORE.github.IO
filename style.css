@@ -3,6 +3,9 @@
   margin: 50px;
 }
 #name{
+  float: left;
   font-size:42px;
 }
-  
+#photo{
+  float: right;
+}
