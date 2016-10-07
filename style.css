@@ -3,10 +3,12 @@
   text-align: left;
   width: 1000px;
   margin: 50px;
+  border-bottom:2px solid black;
 }
 #h2{
   font-size: 46px;
   margin-bottom: -10px;
+  border-bottom:2px solid black;
   
 }
 
