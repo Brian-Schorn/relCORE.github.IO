@@ -14,14 +14,14 @@ h2{
    
 }
 h3{
-    border-bottom: 1px solid black;
+   
 }
-#title{
+.title{
   float: left;
 }
-#date{
+.date{
   float: right;
 }
-#company{
+.company{
   border-bottom: 1px solid black;
 }
