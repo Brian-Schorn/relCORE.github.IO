@@ -1,12 +1,14 @@
 #container{
   background-color: #C0C0C0;
+  font: Helvetica, Sans-Serif;
   text-align: left;
   width: 1000px;
   margin: 50px;
   padding: 50px;
 }
-#h2{
-
+h1{
+    font-weight: bold;
+    border-bottom: 1px solid black;
 }
 
 #company{
