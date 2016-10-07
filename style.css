@@ -16,7 +16,12 @@ h2{
 h3{
     border-bottom: 1px solid black;
 }
-
+#title{
+  float: left;
+}
+#date{
+  float: right;
+}
 #company{
-  
+  border-bottom: 1px solid black;
 }
